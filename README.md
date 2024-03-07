@@ -1,1 +1,7 @@
 # Reversal_Curse
+This page contains three python notebooks, [Reversal_data_generation](https://github.com/WGLab/Reversal_Curse/blob/main/Reversal_data_generation.ipynb), [llama_union_intersectoin](https://github.com/WGLab/Reversal_Curse/blob/main/llama_union_intersection.ipynb) and [BERT_reversal](https://github.com/WGLab/Reversal_Curse/blob/main/BERT_reversal.ipynb), for the [paper](https://arxiv.org/abs/2312.03633) "Not All Large Language Models (LLMs) Succumb to the "Reversal Curse": A Comparative Study of Deductive Logical Reasoning in BERT and GPT Models".
+
+Specifically, the [Reversal_data_generation](https://github.com/WGLab/Reversal_Curse/blob/main/Reversal_data_generation.ipynb) contains all the code for generating synthetic training and testing data in the paper. The [BERT_reversal](https://github.com/WGLab/Reversal_Curse/blob/main/BERT_reversal.ipynb) contains the code for all the training and evulation on BERT model, whereas [llama_union_intersectoin](https://github.com/WGLab/Reversal_Curse/blob/main/llama_union_intersection.ipynb) contains the code for all the training and evulation on LlaMA model
+
+Furthermore, for those inclined, these code, especially the code for generating synthetic data, can be readily modified and employed for personalized testing and exploration. This flexibility allows interested individuals to tailor the code to their specific requirements and objectives.
+
